@@ -5,4 +5,5 @@ Once I had a good understanding of the API, I started integrating it into my pro
 As I continued to work on the project, I found that implementing the API opened up a whole new world of possibilities. It allowed me to access data and functionality that would have been difficult or impossible to implement myself. It also made my code more modular and reusable, as I could easily swap out the API for another if needed.
 
 Overall, implementing an API in my project for the first time was a challenging but rewarding experience. It opened up new possibilities and made my code more flexible and robust. I'm excited to continue exploring APIs and integrating them into my future projects.
+
 Thanks for reading and stay tuned :D
